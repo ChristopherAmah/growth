@@ -8,6 +8,9 @@ import FeaturesSection from './components/FeaturesSection'
 import ScheduleSection from './components/ScheduleSection'
 import MonitorSection from './components/MonitorSection'
 import PricingSection from './components/PricingSection'
+import ServicesSection from './components/ServicesSection'
+import TestimonialSection from './components/TestimonialSection'
+import NewsletterSection from './components/NewsletterSection'
 import Footer from './components/Footer'
 
 function App() {
@@ -25,6 +28,9 @@ function App() {
         <ScheduleSection />
         <MonitorSection />
         <PricingSection />
+        <ServicesSection />
+        <TestimonialSection />
+        <NewsletterSection />
         <Footer />
       </div>
     </main>
